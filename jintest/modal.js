@@ -1,4 +1,4 @@
-const BASE_URL = 'http://3.91.148.197:8000';
+const BASE_URL = 'https://3.91.148.197:8000';
 
 function get_cookie(name) {
     let cookie_value = null;
